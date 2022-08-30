@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "firstName": "admin",
+            "lastName": "dummy",
+            "email": "admin@fb.com",
+            "username": "admin",
+            "password": "123456"
+        }
+    ],
+    "products": [
+        {
+            "id": 0,
+            "productName": "Product 1"
+        }
+    ],
+    "authors": {
+        "name": "sanjay",
+        "email": "sanjay@fb.com",
+        "place": "Gujarat"
+    }
+}
